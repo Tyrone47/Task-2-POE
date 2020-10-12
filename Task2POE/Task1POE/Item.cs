@@ -6,13 +6,7 @@ using System.Threading.Tasks;
 
 namespace Task1POE
 {
-     class Goblin : Enemy
+    class Item
     {
-
-        Goblin(int Enemy ,int HP, int Damage)
-        {
-            HP = 
-
-        }
     }
 }
